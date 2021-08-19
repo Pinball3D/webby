@@ -1,1 +1,2 @@
 mainfo:bg=#139c37
+label:text=this is the first label ever created,x=0,y=0
