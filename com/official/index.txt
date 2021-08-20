@@ -2,4 +2,4 @@ mainfo:bg=#139c37
 label:text=this is the first label ever created,x=0,y=0
 label:text=oH mY gUi Oh My GuI,x=50,y=100
 label:text=this is another label,x=500,y=500
-image:image=,x=1000,y=1000
+image:image=https://raw.githubusercontent.com/Pinball3D/webby/main/com/official/hotdogrender.png,x=1000,y=1000
