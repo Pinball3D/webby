@@ -1,4 +1,4 @@
 mainfo:bg=#139c37
 label:text=this is the first label ever created,x=0,y=0
 label:text=oH mY gUi Oh My GuI,x=50,y=100
-label:text=this is another label, x=500, y=500
+label:x=500, text=this is another label, y=500
