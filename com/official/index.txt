@@ -4,4 +4,4 @@ label:text=oH mY gUi Oh My GuI,x=50,y=100
 label:text=this is another label,x=500,y=500
 /image:content=raw.githubusercontent.com/Pinball3D/webby/main/com/official/assets/red.png,x=50,y=100
 /image:content=raw.githubusercontent.com/Pinball3D/webby/main/com/official/assets/yellow.png,x=500,y=500
-button:text=hello this is a button,x=600,y=500,bd=0,command=load(official.com/help)
+button:text=hello this is a button,x=600,y=500,bd=0,command=load('official.com/help')
